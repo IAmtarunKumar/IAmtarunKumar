@@ -80,7 +80,7 @@
 <img src="https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=SQL&logoColor=white" align="center" alt="SQL"/>
  
  
- <div/>
+ <div>
   
   <div align="center"><h3 align="center">Tools</h3> 
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
