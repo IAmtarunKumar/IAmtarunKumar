@@ -44,7 +44,7 @@
 
 - 🌐 Have a look at my <a href="https://Tarun-Kumar-DEV.github.io/" target="_blank">Portfolio</a>
 
-- 📄 Download my <a href="https://drive.google.com/file/d/1FaGp-WVtNALfsCMVjZESGzTDR6q3SpRf/view?usp=sharing" target="_target">Resume</a>
+- 📄 Download my <a href="[https://drive.google.com/file/d/1FaGp-WVtNALfsCMVjZESGzTDR6q3SpRf/view?usp=sharing](https://drive.google.com/file/d/14Slrelp7mkHPCEIY-XpA4mQo6LmGejHP/view?usp=sharing)" target="_target">Resume</a>
 
 - 💬 Open for your suggestions
 
