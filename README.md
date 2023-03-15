@@ -14,7 +14,7 @@
   <p align="center" color:"red">
  <a>
   
-<img margin-left="30%"  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm;MERN+Stack+Web+Developer+From+India;Full+Stack+Web+Developer+From+India](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&pause=1000&width=450&lines=Full+Stack+Web+Developer;1500%2B+Hours+Coding+Experience;Data+Structure+and+Algorithm)](https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&width=530&lines=Full+Stack+Web+Developer+From+India;1500%2B+Hours+Coding+Experience;Data+Structure+and+Algorithm"></a>
+<img   src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm;MERN+Stack+Web+Developer+From+India;Full+Stack+Web+Developer+From+India](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&pause=1000&width=450&lines=Full+Stack+Web+Developer;1500%2B+Hours+Coding+Experience;Data+Structure+and+Algorithm)](https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&width=530&lines=Full+Stack+Web+Developer+From+India;1500%2B+Hours+Coding+Experience;Data+Structure+and+Algorithm"></a>
       </p>
        
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -80,7 +80,7 @@
 <img src="https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=SQL&logoColor=white" align="center" alt="SQL"/>
  
  
- </div>
+ <div/>
   
   <div align="center"><h3 align="center">Tools</h3> 
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
