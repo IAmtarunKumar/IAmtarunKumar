@@ -6,13 +6,13 @@
 <h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
 - I am a tech-enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications.
-- I am skilled in HTML, CSS, Javascript, Bootstrap, React, Node.js, Express, MongoDB, Mongoose, Redish, SQL,   . I am good in data structure and algorithms.
+- I am skilled in HTML, CSS, Javascript, Bootstrap, React, Node.js, Express, MongoDB, Mongoose, Redish, SQL. I am good in data structure and algorithms.
 - I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center" color:"red">
  <a>
-          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm;MERN+Stack+Web+Developer+From+India;Full+Stack+Web+Developer+From+India"></a>
+          <img src="[https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm;MERN+Stack+Web+Developer+From+India;Full+Stack+Web+Developer+From+India](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&pause=1000&width=435&lines=Full+Stack+Web+Developer+From+India;1500%2B+Hours+Coding+Experience;Data+Structure+and+Algorithm)"></a>
       </p>
        
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -35,11 +35,11 @@
  
 - 🔭 I’m currently working on **Frontend & Backend**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/thetarunkumar/" target="_blank" >LinkedIn</a> & <a href="https://github.com/Tarun-Kumar-DEV" target="_blank" >GitHub</a>**
 
-- 📫 Reach me on **<a href="https://linkfree.eddiehub.io/thetarunkumar" target="_blank" >Linkfree</a>**
+
 
 - 🌐 Have a look at my <a href="https://Tarun-Kumar-DEV.github.io/" target="_blank">Portfolio</a>
 
