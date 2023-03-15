@@ -124,7 +124,7 @@
   <div align="center">    
 <img src="https://github-profile-trophy.vercel.app/?username=IAmtarunKumar&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
 
-<img align="center" src="[https://github.com/IAmtarunKumar/IAmtarunKumar/blob/output/github-contribution-grid-snake.svg](https://www.svgrepo.com/show/142769/left-quote.svg)" alt="snake" width="100%"/>
+<!-- <img align="center" src="[https://github.com/IAmtarunKumar/IAmtarunKumar/blob/output/github-contribution-grid-snake.svg](https://www.svgrepo.com/show/142769/left-quote.svg)" alt="snake" width="100%"/> -->
 
 ### ✍️ Random Dev Quote
   <div align="center">  
