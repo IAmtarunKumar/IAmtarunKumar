@@ -66,7 +66,7 @@
 <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
 <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
   
-</div>
+
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
