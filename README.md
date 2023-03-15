@@ -1,7 +1,7 @@
  <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/ajay-84sia">Tarun Kumar 💻</a>!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/thetarunkumar">Tarun Kumar 💻</a>!
 </h1> 
 <h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
@@ -24,7 +24,7 @@
 
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
+ <img src="https://komarev.com/ghpvc/?username=Tarun-Kumar-DEV&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
  <img src="https://img.shields.io/github/followers/Tarun-Kumar-DEV?label=Followers&style=social" alt="followers-count"> 
 </p>
 
@@ -37,11 +37,11 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/ajay-84sia/" target="_blank" >LinkedIn</a> & <a href="https://github.com/Tarun-Kumar-DEV" target="_blank" >GitHub</a>**
+- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/thetarunkumar/" target="_blank" >LinkedIn</a> & <a href="https://github.com/Tarun-Kumar-DEV" target="_blank" >GitHub</a>**
 
 - 📫 Reach me on **<a href="https://linkfree.eddiehub.io/thetarunkumar" target="_blank" >Linkfree</a>**
 
-- 🌐 Have a look at my <a href="https://ajay84sia.github.io/" target="_blank">Portfolio</a>
+- 🌐 Have a look at my <a href="https://Tarun-Kumar-DEV.github.io/" target="_blank">Portfolio</a>
 
 - 📄 Download my <a href="https://drive.google.com/file/d/1FaGp-WVtNALfsCMVjZESGzTDR6q3SpRf/view?usp=sharing" target="_target">Resume</a>
 
