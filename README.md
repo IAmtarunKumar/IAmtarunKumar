@@ -1,5 +1,6 @@
  <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
+
 <h1 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/thetarunkumar">Tarun Kumar 💻</a>!
 </h1> 
@@ -25,8 +26,8 @@
 
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=Tarun-Kumar-DEV&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
- <img src="https://img.shields.io/github/followers/Tarun-Kumar-DEV?label=Followers&style=social" alt="followers-count"> 
+ <img src="https://komarev.com/ghpvc/?username=IAmtarunKumar&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
+ <img src="https://img.shields.io/github/followers/IAmtarunKumar?label=Followers&style=social" alt="followers-count"> 
 </p>
 
 
@@ -38,11 +39,11 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/thetarunkumar/" target="_blank" >LinkedIn</a> & <a href="https://github.com/Tarun-Kumar-DEV" target="_blank" >GitHub</a>**
+- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/thetarunkumar/" target="_blank" >LinkedIn</a> & <a href="https://github.com/IAmtarunKumar" target="_blank" >GitHub</a>**
 
 
 
-- 🌐 Have a look at my <a href="https://Tarun-Kumar-DEV.github.io/" target="_blank">Portfolio</a>
+- 🌐 Have a look at my <a href="https://IAmtarunKumar.github.io/" target="_blank">Portfolio</a>
 
 - 📄 Download my <a href="[https://drive.google.com/file/d/1FaGp-WVtNALfsCMVjZESGzTDR6q3SpRf/view?usp=sharing](https://drive.google.com/file/d/14Slrelp7mkHPCEIY-XpA4mQo6LmGejHP/view?usp=sharing)" target="_target">Resume</a>
 
@@ -98,32 +99,32 @@
 <br/>
  
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarun-Kumar-DEV&theme=2077" width="46%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IAmtarunKumar&theme=2077" width="46%" />
   <br/>
   <br/>
     <br/>
   <br/>
-<img align="right" src="https://streak-stats.demolab.com/?user=Tarun-Kumar-DEV&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
+<img align="right" src="https://streak-stats.demolab.com/?user=IAmtarunKumar&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
 </div>
 <br/>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarun-Kumar-DEV&theme=2077" width="45%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tarun-Kumar-DEV&theme=2077" width="45%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IAmtarunKumar&theme=2077" width="45%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IAmtarunKumar&theme=2077" width="45%" />
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarun-Kumar-DEV&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmtarunKumar&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
                                                                                                                              
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Tarun Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Tarun-Kumar-DEV&theme=react-dark&hide_border=true" /></a>    
+  <a><img alt="Tarun Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=IAmtarunKumar&theme=react-dark&hide_border=true" /></a>    
   
   <div align="center">    
-<img src="https://github-profile-trophy.vercel.app/?username=Tarun-Kumar-DEV&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
+<img src="https://github-profile-trophy.vercel.app/?username=IAmtarunKumar&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
 
-<img align="center" src="[https://github.com/Tarun-Kumar-DEV/Tarun-Kumar-DEV/blob/output/github-contribution-grid-snake.svg](https://www.svgrepo.com/show/142769/left-quote.svg)" alt="snake" width="100%"/>
+<img align="center" src="[https://github.com/IAmtarunKumar/IAmtarunKumar/blob/output/github-contribution-grid-snake.svg](https://www.svgrepo.com/show/142769/left-quote.svg)" alt="snake" width="100%"/>
 
 ### ✍️ Random Dev Quote
   <div align="center">  
