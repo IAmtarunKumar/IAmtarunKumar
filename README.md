@@ -39,11 +39,11 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/thetarunkumar/" target="_blank" >LinkedIn</a> & <a href="IAmtarunKumar.github.io" target="_blank" >GitHub</a>**
+- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/thetarunkumar/" target="_blank" >LinkedIn</a> & <a href="https://github.com/IAmtarunKumar" target="_blank" >GitHub</a>**
 
 
 
-- 🌐 Have a look at my <a href="https://bespoke-gumdrop-f7c7ee.netlify.app//" target="_blank">Portfolio</a>
+- 🌐 Have a look at my <a href="IAmtarunKumar.github.io" target="_blank">Portfolio</a>
 
 - 📄 Download my <a href="[https://drive.google.com/file/d/1FaGp-WVtNALfsCMVjZESGzTDR6q3SpRf/view?usp=sharing](https://drive.google.com/file/d/14Slrelp7mkHPCEIY-XpA4mQo6LmGejHP/view?usp=sharing)" target="_target">Resume</a>
 
