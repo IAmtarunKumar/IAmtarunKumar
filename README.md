@@ -64,28 +64,32 @@
   <img src="https://img.shields.io/badge/Bootstrap-593D88?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap" />
  <br/>
 <br/>
-<img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
-<img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+<img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="node.js" />
+ <img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="Express.js" />
+<img src='https://img.shields.io/badge/MongoDB-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='MongoDB' />
+<img src="https://img.shields.io/badge/Mongoose-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="Mongoose"/>
   </div>
 
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-<img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=Mongoose&logoColor=white" align="center" alt="Mongoose"/>
+<img src="https://img.shields.io/badge/React-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/rest api-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="rest api"/>
+<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
+<img src="https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=Mongoose&logoColor=white" align="center" alt="Mongoose"/>
   <br/>
 <br/>
-<img src="https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=SQL&logoColor=white" align="center" alt="SQL"/>
+
  
  
  </div>
   
   <div align="center"><h3 align="center">Tools</h3> 
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+  
+<img src="https://img.shields.io/badge/netlify-4EA94B?style=for-the-badge&logo=Mongoose&logoColor=white" align="center" alt="netlify"/>
+ 
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+
+ <img src='https://img.shields.io/badge/GitHub-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='GitHub' />
 <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
   <br/>
 <br/>
