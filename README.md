@@ -52,7 +52,9 @@
 
 - 📄 Download my <a href="[https://drive.google.com/file/d/1FaGp-WVtNALfsCMVjZESGzTDR6q3SpRf/view?usp=sharing](https://drive.google.com/file/d/14Slrelp7mkHPCEIY-XpA4mQo6LmGejHP/view?usp=sharing)" target="_target">Resume</a>
 
-You can download my resume [here](https://drive.google.com/file/d/1FaGp-WVtNALfsCMVjZESGzTDR6q3SpRf).
+<a href="https://drive.google.com/file/d/1cXp6xEX33dueazlqRRMV6jf-KOuwiuaM/view?usp=sharing/uc?id=your_file_id" download>
+  <button>Download Resume</button>
+        
 
 - 💬 Open for your suggestions
 
