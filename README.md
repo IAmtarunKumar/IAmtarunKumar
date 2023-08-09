@@ -1,5 +1,10 @@
- <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
+
+
+
+ 
+ 
+ <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/thetarunkumar">Tarun Kumar 💻</a>!
@@ -46,6 +51,8 @@
 - 🌐 Have a look at my <a href="https://iamtarunkumar.github.io/" target="_blank">Portfolio</a>
 
 - 📄 Download my <a href="[https://drive.google.com/file/d/1FaGp-WVtNALfsCMVjZESGzTDR6q3SpRf/view?usp=sharing](https://drive.google.com/file/d/14Slrelp7mkHPCEIY-XpA4mQo6LmGejHP/view?usp=sharing)" target="_target">Resume</a>
+
+You can download my resume [here](https://drive.google.com/file/d/1FaGp-WVtNALfsCMVjZESGzTDR6q3SpRf).
 
 - 💬 Open for your suggestions
 
@@ -97,6 +104,18 @@
    <img src="https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
    <br/>
   </div>
+
+## 📊 Certificates
+- 👯 1.<a href="https://drive.google.com/file/d/1qVaoZ-tm4tvZfrapp2iP5tJINZDWicUj/view?usp=sharing" target="_blank" >Deploma in Information Technology </a> - by Lal Bahadur Shastri Institue { Duration 1 Year }
+- 👯 2.<a href="https://drive.google.com/file/d/1cbDvPOvOmw9xLs0jN7YUYzaTQw-VyrvM/view?usp=sharing" target="_blank" >Basic Web Development </a> - by Masai School
+- 👯 3.<a href="https://drive.google.com/file/d/1qVaoZ-tm4tvZfrapp2iP5tJINZDWicUj/view?usp=sharing" target="_blank" >Beginner in Chatgpt</a> - by Great Learning
+- 👯 4.<a href="https://drive.google.com/file/d/194vHvB7WZf87kEgnY0Tn5u30Ajl0Rhew/view?usp=sharing" target="_blank" >Typing Speed in English 47WPM and accuracy rate of 96.9%</a> - by RATATYPE
+
+
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmtarunKumar&layout=compact&theme=radical)
+
 
 
 ## 📊 Statistics  
