@@ -52,6 +52,10 @@
 
 - 📄 Download my <a href="https://drive.google.com/file/d/1cXp6xEX33dueazlqRRMV6jf-KOuwiuaM/view?usp=sharing/uc?id=1cXp6xEX33dueazlqRRMV6jf-KOuwiuaM" download  target="_blank">Resume</a>
 
+## Download My Resume
+
+Click [here](https://IAmtarunKumar.github.io/your-repo-name/resume.html) to download my resume.
+
 
   
         
