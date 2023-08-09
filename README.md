@@ -50,7 +50,7 @@
 
 - 🌐 Have a look at my <a href="https://iamtarunkumar.github.io/" target="_blank">Portfolio</a>
 
-- 📄 Download my <a href="https://drive.google.com/file/d/1cXp6xEX33dueazlqRRMV6jf-KOuwiuaM/view?usp=sharing/uc?id=1cXp6xEX33dueazlqRRMV6jf-KOuwiuaM" download  target="_blank">Resume</a>
+- 📄 Download my <a [here](https://IAmtarunKumar.github.io/Download_Resume/index.html) download  target="_blank">Resume</a>
 
 ## Download My Resume
 
@@ -61,7 +61,7 @@
 Click [here](https://IAmtarunKumar.github.io/Download_Resume/index.html) to download my resume.
 
 
-Click [here](https://IAmtarunKumar.github.io/Download_Resume/index.html) to download my resume.
+Click  to download my resume.
 
 
 
