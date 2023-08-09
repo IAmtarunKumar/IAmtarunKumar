@@ -50,7 +50,7 @@
 
 - 🌐 Have a look at my <a href="https://iamtarunkumar.github.io/" target="_blank">Portfolio</a>
 
-- 📄 Download my <a href="https://IAmtarunKumar.github.io/Download_Resume/index.html" download  target="_blank">Resume</a>
+- 📄 Download my <a href="https://IAmtarunKumar.github.io/Download_Resume/index.html" target="_blank">Resume</a>
 
 
 
