@@ -109,10 +109,10 @@
   </div>
 
 ## 📊 Certificates
-- 👯 1.<a href="https://drive.google.com/file/d/1qVaoZ-tm4tvZfrapp2iP5tJINZDWicUj/view?usp=sharing" target="_blank" >Deploma in Information Technology </a> - by Lal Bahadur Shastri Institue { Duration 1 Year }
-- 👯 2.<a href="https://drive.google.com/file/d/1cbDvPOvOmw9xLs0jN7YUYzaTQw-VyrvM/view?usp=sharing" target="_blank" >Basic Web Development </a> - by Masai School
-- 👯 3.<a href="https://drive.google.com/file/d/1qVaoZ-tm4tvZfrapp2iP5tJINZDWicUj/view?usp=sharing" target="_blank" >Beginner in Chatgpt</a> - by Great Learning
-- 👯 4.<a href="https://drive.google.com/file/d/194vHvB7WZf87kEgnY0Tn5u30Ajl0Rhew/view?usp=sharing" target="_blank" >Typing Speed in English 47WPM and accuracy rate of 96.9%</a> - by RATATYPE
+- 👯 <a href="https://drive.google.com/file/d/1qVaoZ-tm4tvZfrapp2iP5tJINZDWicUj/view?usp=sharing" target="_blank" >Deploma in Information Technology </a> - by Lal Bahadur Shastri Institue { Duration 1 Year }
+- 👯 <a href="https://drive.google.com/file/d/1cbDvPOvOmw9xLs0jN7YUYzaTQw-VyrvM/view?usp=sharing" target="_blank" >Basic Web Development </a> - by Masai School
+- 👯 <a href="https://drive.google.com/file/d/1qVaoZ-tm4tvZfrapp2iP5tJINZDWicUj/view?usp=sharing" target="_blank" >Beginner in Chatgpt</a> - by Great Learning
+- 👯 <a href="https://drive.google.com/file/d/194vHvB7WZf87kEgnY0Tn5u30Ajl0Rhew/view?usp=sharing" target="_blank" >Typing Speed in English 47WPM and accuracy rate of 96.9%</a> - by RATATYPE
 
 
 
