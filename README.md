@@ -61,7 +61,7 @@
 Click [here](https://IAmtarunKumar.github.io/Download_Resume/index.html) to download my resume.
 
 
-Click [here](https://IAmtarunKumar.github.io/Download_Resume/) to download my resume.
+Click [here](https://IAmtarunKumar.github.io/Download_Resume/index.html) to download my resume.
 
 
 
