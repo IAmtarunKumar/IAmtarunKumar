@@ -54,7 +54,7 @@
 
 ## Download My Resume
 
-Click [here](https://IAmtarunKumar.github.io/your-repo-name/resume.html) to download my resume.
+Click [here](https://IAmtarunKumar.github.io/your-repo-name/Download_Resume) to download my resume.
 
 
   
