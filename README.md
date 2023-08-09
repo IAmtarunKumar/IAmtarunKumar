@@ -50,7 +50,7 @@
 
 - 🌐 Have a look at my <a href="https://iamtarunkumar.github.io/" target="_blank">Portfolio</a>
 
-- 📄 Download my <a href="https://drive.google.com/file/d/1cXp6xEX33dueazlqRRMV6jf-KOuwiuaM/view?usp=sharing/uc?id=your_file_id" download>Resume</a>
+- 📄 Download my <a href="https://drive.google.com/file/d/1cXp6xEX33dueazlqRRMV6jf-KOuwiuaM/view?usp=sharing/uc?id=1cXp6xEX33dueazlqRRMV6jf-KOuwiuaM" download  target="_blank">Resume</a>
 
 
   
