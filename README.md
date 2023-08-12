@@ -30,14 +30,18 @@
 
 
 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=IAmtarunKumar&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
  <img src="https://img.shields.io/github/followers/IAmtarunKumar?label=Followers&style=social" alt="followers-count"> 
 </p>
 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
  <img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"  />
- 
+
   💫 About Me:
  
 - 🔭 I’m currently working on **Frontend & Backend**
@@ -64,7 +68,7 @@
 
 <br/>
 <br/>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🥇 Technical Skills:
  <div align="center"><h3 align="center">Frontend</h3>
@@ -74,17 +78,23 @@
   <img src="https://img.shields.io/badge/Bootstrap-593D88?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap" />
  <br/>
 <br/>
-<img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="node.js" />
- <img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="Express.js" />
-<img src='https://img.shields.io/badge/MongoDB-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='MongoDB' />
-<img src="https://img.shields.io/badge/Mongoose-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="Mongoose"/>
+<img src="https://img.shields.io/badge/React-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/rest api-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="rest api"/>
+<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
   </div>
 
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/React-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/rest api-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="rest api"/>
-<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
+
+
+
+
+   <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="node.js" />
+ <img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="Express.js" />
+<img src='https://img.shields.io/badge/MongoDB-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='MongoDB' />
+<img src="https://img.shields.io/badge/Mongoose-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="Mongoose"/>
+<br> <br>
+
 <img src="https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=Mongoose&logoColor=white" align="center" alt="Mongoose"/>
   <br/>
 <br/>
@@ -107,6 +117,9 @@
    <img src="https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
    <br/>
   </div>
+<br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
 
 ## 📊 Certificates
 - 👯 <a href="https://drive.google.com/file/d/1qVaoZ-tm4tvZfrapp2iP5tJINZDWicUj/view?usp=sharing" target="_blank" >Deploma in Information Technology </a> - by Lal Bahadur Shastri Institue { Duration 1 Year }
@@ -114,12 +127,12 @@
 - 👯 <a href="https://drive.google.com/file/d/1qVaoZ-tm4tvZfrapp2iP5tJINZDWicUj/view?usp=sharing" target="_blank" >Beginner in Chatgpt</a> - by Great Learning
 - 👯 <a href="https://drive.google.com/file/d/194vHvB7WZf87kEgnY0Tn5u30Ajl0Rhew/view?usp=sharing" target="_blank" >Typing Speed in English 47WPM and accuracy rate of 96.9%</a> - by RATATYPE
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmtarunKumar&layout=compact&theme=radical)
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 Statistics  
 <br/>
@@ -141,8 +154,11 @@
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmtarunKumar&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmtarunKumar&theme=2077" style="height: 300px"  />                                 </div>   
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
                                                                                                                              
  <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Tarun Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=IAmtarunKumar&theme=react-dark&hide_border=true" /></a>    
@@ -151,6 +167,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=IAmtarunKumar&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
 
 <!-- <img align="center" src="[https://github.com/IAmtarunKumar/IAmtarunKumar/blob/output/github-contribution-grid-snake.svg](https://www.svgrepo.com/show/142769/left-quote.svg)" alt="snake" width="100%"/> -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✍️ Random Dev Quote
   <div align="center">  
