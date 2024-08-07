@@ -47,7 +47,7 @@
 - 🔭 I’m currently working on **Frontend & Backend**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/thetarunkumar/" target="_blank" >LinkedIn</a> & <a href="https://github.com/IAmtarunKumar" target="_blank" >GitHub</a> 
+ 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/thetarunkumar/" target="_blank" >**LinkedIn**</a> & <a href="https://github.com/IAmtarunKumar" target="_blank" >**GitHub**</a> 
   
 
 
