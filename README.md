@@ -51,7 +51,7 @@
   
 
 
-  🌐 Have a look at my <a href="https://portfolio-tarun-kumar.vercel.app/" target="_blank">Portfolio</a>
+  🌐 Have a look at my <a href="https://Iamtarunkumar.github.io" target="_blank">Portfolio</a>
 
   - 📄 Download my <a href="https://IAmtarunKumar.github.io/Download_Resume/index.html" target="_blank">Resume</a> 
 
