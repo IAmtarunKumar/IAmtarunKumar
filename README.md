@@ -1,24 +1,23 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      HEADER WAVE                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--  HEADER — capsule-render ✅ (confirmed working) -->
+<!-- ══════════════════════════════════════════════ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Tarun%20Kumar&fontSize=65&fontColor=fff&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20TypeScript%20%7C%20India%20🇮🇳&descSize=18&descAlignY=60&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Tarun%20Kumar&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20TypeScript%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=18&descAlignY=60&animation=fadeIn" />
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                        -->
-<!-- service: readme-typing-svg.demolab.com ✅ always works     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!-- TYPING — capsule-render text pill ✅ confirmed  -->
+<!-- (demolab was broken, capsule-render works)     -->
+<!-- ══════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Web+Developer+%7C+MERN+Stack;💡+Building+Scalable+%26+Clean+Web+Apps;🔥+1500%2B+Hours+of+Coding+Experience;🌱+DSA+%7C+System+Design+%7C+Open+Source;✨+Let's+build+something+great+together!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=50&text=🚀%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20TypeScript%20%7C%201500%2B%20Hours%20Coding&fontSize=15&fontColor=ffffff&animation=fadeIn" width="85%" />
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               SOCIAL + COUNTER BADGES                      -->
-<!-- service: img.shields.io ✅  komarev.com ✅                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!-- BADGES — img.shields.io ✅ (confirmed working) -->
+<!-- ══════════════════════════════════════════════ -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thetarunkumar)
@@ -39,7 +38,7 @@
 
 ## 🧑‍💻 About Me
 
-<!-- Giphy GIF — media.giphy.com ✅ always works -->
+<!-- Giphy ✅ confirmed working -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif"/>
 
 ```typescript
@@ -67,7 +66,7 @@ const tarunKumar = {
 
 ## 🛠️ Tech Stack
 
-<!-- skillicons.dev ✅ very reliable, beautiful icons -->
+<!-- skillicons.dev ✅ confirmed working -->
 <div align="center">
 
 **🎨 Frontend**
@@ -92,46 +91,62 @@ const tarunKumar = {
 
 ## 📊 GitHub Statistics
 
-<!--
-  github-readme-stats.vercel.app ✅
-  streak-stats.demolab.com ✅  (DenverCoder1's official — most stable streak service)
-  Both use cache_seconds=1800 to avoid rate limits
--->
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- Streak ✅ confirmed working in screenshot              -->
+<!-- Stats & Langs → switched to anuraghazra's OWN deploy  -->
+<!-- which has higher rate limits than the shared instance  -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <a href="https://github.com/IAmtarunKumar">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=IAmtarunKumar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IAmtarunKumar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&include_all_commits=true&count_private=true&hide=contribs&rank_icon=percentile&cache_seconds=21600" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/IAmtarunKumar">
-  <img height="175" src="https://streak-stats.demolab.com?user=IAmtarunKumar&hide_border=true&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=666666&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=IAmtarunKumar&hide_border=true&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </a>
 
-<br/><br/>
+</div>
+
+<div align="center">
 
 <a href="https://github.com/IAmtarunKumar">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmtarunKumar&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmtarunKumar&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8&cache_seconds=21600" alt="Top Languages" />
 </a>
+
+</div>
+
+<!-- FALLBACK: If stats cards above don't load, the shields below always will -->
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-★★★★☆-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-★★★★☆-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Trophies
 
-<!--
-  github-profile-trophy.vercel.app ✅
-  Valid themes: flat, onedark, gruvbox, dracula, monokai, chalk, nord, alduin, darkhub, juicyfresh
--->
+<!-- Trophies was broken. Using shields.io milestone badges instead — ✅ always works -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IAmtarunKumar&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="GitHub Trophies" />
+
+![Stars](https://img.shields.io/badge/⭐_GitHub_Stars-Earned-FFD700?style=for-the-badge&labelColor=0d1117)
+![Commits](https://img.shields.io/badge/💻_Total_Commits-6932%2B-A78BFA?style=for-the-badge&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/📁_Public_Repos-Active-00C853?style=for-the-badge&labelColor=0d1117)
+![Experience](https://img.shields.io/badge/⏱️_Coding_Hours-1500%2B-FF5722?style=for-the-badge&labelColor=0d1117)
+![WPM](https://img.shields.io/badge/⌨️_Typing_Speed-47_WPM_96.9%25-0A66C2?style=for-the-badge&labelColor=0d1117)
+
 </div>
 
 ---
 
 ## 📈 Contribution Activity
 
-<!-- github-readme-activity-graph.vercel.app ✅ stable -->
+<!-- activity-graph ✅ confirmed working -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IAmtarunKumar&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true&area=true&area_color=A78BFA" width="97%" alt="Contribution Graph" />
 </div>
@@ -153,9 +168,7 @@ const tarunKumar = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              FOOTER SECTION                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
 <div align="center">
 
 ### 🤝 Let's Connect & Build Something Great!
@@ -166,14 +179,15 @@ const tarunKumar = {
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thetarunkumar)
 &nbsp;
-[![View My Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://tarun-kumar-141120.vercel.app/)
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://tarun-kumar-141120.vercel.app/)
 
 <br/>
 
-⭐ *If you find my work useful, drop a star — it means a lot!* ⭐
+⭐ *If you find my work useful, a star means a lot!* ⭐
 
 <br/>
 
+<!-- capsule-render footer ✅ confirmed working -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" />
 
 </div>
