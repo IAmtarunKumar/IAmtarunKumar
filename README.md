@@ -1,177 +1,154 @@
+<div align="center">
 
+<!-- Dynamic header with wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tarun%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%F0%9F%9A%80&descSize=18&descAlignY=58&animation=fadeIn"/>
 
+<!-- Animated typing intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications+%F0%9F%8C%90;Full+Stack+%7C+MERN+%7C+TypeScript;1500%2B+Hours+of+Coding+Experience+%E2%9C%A8;Open+Source+Enthusiast+%F0%9F%A4%9D;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
+<br/>
 
- 
- 
- <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
-<h2 align="center">
-  Hi there 👨‍💼  I'm <a href="https://www.linkedin.com/in/thetarunkumar">Tarun Kumar 💻</a>!
-</h2> 
-<h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
-
-- I am a tech-enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications.
-- I am skilled in HTML, CSS, Javascript, Bootstrap, React, Node.js, Express, MongoDB, Mongoose, Redish, SQL. I am good in data structure and algorithms.
-- I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-   <p align="center" color:"red">
- <a>
-          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm;Full+Stack+Web+Developer+From+India"></a>
-      </p>
-       
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-  
- <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
-
-
-
-
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=IAmtarunKumar&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
- <img src="https://img.shields.io/github/followers/IAmtarunKumar?label=Followers&style=social" alt="followers-count"> 
+<!-- Social badges -->
+<p>
+  <a href="https://www.linkedin.com/in/thetarunkumar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tarun-kumar-141120.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1cXp6xEX33dueazlqRRMV6jf-KOuwiuaM/view">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://komarev.com/ghpvc/?username=IAmtarunKumar&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/IAmtarunKumar?label=Followers&style=flat-square&color=7C3AED" alt="Followers"/>
 
-
-
- <img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"  />
-
-  💫 About Me:
- 
-- 🔭 I’m currently working on **Frontend & Backend**
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-  👯 I’m looking to collaborate on <a href="https://www.linkedin.com/in/tarunkumarmehto/" target="_blank" >**LinkedIn**</a> & <a href="https://github.com/IAmtarunKumar" target="_blank" >**GitHub**</a> 
-  
-
-
-  🌐 Have a look at my <a href="https://tarun-kumar-141120.vercel.app/" target="_blank">Portfolio</a>
-
-  - 📄 Download my <a href="https://drive.google.com/file/d/1cXp6xEX33dueazlqRRMV6jf-KOuwiuaM/view" target="_blank">Resume</a> 
-
-
-
-  
-        
-
-- 💬 Open for your suggestions
-
-
-
-
-<br/>
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# 🥇 Technical Skills:
- <div align="center"><h3 align="center">Frontend</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-  <img src="https://img.shields.io/badge/Bootstrap-593D88?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap" />
- <br/>
-<br/>
-<img src="https://img.shields.io/badge/React-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/rest api-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="rest api"/>
-<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
-  </div>
-
- <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
-
-
-
-
-   <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="node.js" />
- <img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="Express.js" />
-<img src='https://img.shields.io/badge/MongoDB-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='MongoDB' />
-<img src="https://img.shields.io/badge/Mongoose-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="Mongoose"/>
-<br> <br>
-
-<img src="https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=Mongoose&logoColor=white" align="center" alt="Mongoose"/>
-  <br/>
-<br/>
-
- 
- 
- </div>
-  
-  <div align="center"><h3 align="center">Tools</h3> 
-  
-<img src="https://img.shields.io/badge/netlify-4EA94B?style=for-the-badge&logo=Mongoose&logoColor=white" align="center" alt="netlify"/>
- 
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-
- <img src='https://img.shields.io/badge/GitHub-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='GitHub' />
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-  <br/>
-<br/>
-<img src = "https://img.shields.io/badge/NPM-CA4245?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <br/>
-  </div>
-<br>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
-
-## 📊 Certificates
-- 👯 <a href="https://drive.google.com/file/d/1qVaoZ-tm4tvZfrapp2iP5tJINZDWicUj/view?usp=sharing" target="_blank" >Deploma in Information Technology </a> - by Lal Bahadur Shastri Institute { Duration 1 Year }
-- 👯 <a href="https://drive.google.com/file/d/1cbDvPOvOmw9xLs0jN7YUYzaTQw-VyrvM/view?usp=sharing" target="_blank" >Basic Web Development </a> - by Masai School
-- 👯 <a href="https://drive.google.com/file/d/1qVaoZ-tm4tvZfrapp2iP5tJINZDWicUj/view?usp=sharing" target="_blank" >Beginner in Chatgpt</a> - by Great Learning
-- 👯 <a href="https://drive.google.com/file/d/194vHvB7WZf87kEgnY0Tn5u30Ajl0Rhew/view?usp=sharing" target="_blank" >Typing Speed in English 47WPM and accuracy rate of 96.9%</a> - by RATATYPE
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmtarunKumar&layout=compact&theme=radical)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 Statistics  
-<br/>
- 
-<div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IAmtarunKumar&theme=2077" width="46%" />
-  <br/>
-  <br/>
-    <br/>
-  <br/>
-<img align="right" src="https://streak-stats.demolab.com/?user=IAmtarunKumar&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
 </div>
-<br/>
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IAmtarunKumar&theme=2077" width="45%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IAmtarunKumar&theme=2077" width="45%" />
+
+---
+
+## 🧑‍💻 About Me
+
+```ts
+const tarunKumar = {
+  location: "India 🇮🇳",
+  role: "Full Stack Web Developer",
+  experience: "1500+ hours of coding",
+  currentFocus: ["Frontend Engineering", "Backend APIs", "System Design"],
+  techStack: {
+    frontend: ["React", "TypeScript", "JavaScript", "HTML5", "CSS3", "Bootstrap"],
+    backend:  ["Node.js", "Express.js", "REST APIs"],
+    database: ["MongoDB", "Mongoose", "SQL"],
+    tools:    ["Git", "GitHub", "Postman", "Vercel", "Netlify", "VS Code", "NPM"],
+  },
+  strengths: ["DSA Problem Solving", "Clean Code", "Open Source Collaboration"],
+  openTo: "Collaborations, Opportunities & Feedback 💬",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=IAmtarunKumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=IAmtarunKumar&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%" alt="GitHub Streak"/>
+
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmtarunKumar&theme=2077" style="height: 300px"  />                                 </div>   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmtarunKumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="48%" alt="Top Languages"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-                                                                                                                             
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Tarun Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=IAmtarunKumar&theme=react-dark&hide_border=true" /></a>    
-  
-  <div align="center">    
-<img src="https://github-profile-trophy.vercel.app/?username=IAmtarunKumar&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
+</div>
 
-<!-- <img align="center" src="[https://github.com/IAmtarunKumar/IAmtarunKumar/blob/output/github-contribution-grid-snake.svg](https://www.svgrepo.com/show/142769/left-quote.svg)" alt="snake" width="100%"/> -->
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🏆 GitHub Trophies
 
-### ✍️ Random Dev Quote
-  <div align="center">  
-<img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
-    </div>  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IAmtarunKumar&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+</div>
 
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+---
+
+## 📜 Certifications
+
+| 🏅 Certificate | 🏢 Issuer | 📅 Details |
+|---|---|---|
+| [🎓 Diploma in Information Technology](https://drive.google.com/file/d/1qVaoZ-tm4tvZfrapp2iP5tJINZDWicUj/view?usp=sharing) | Lal Bahadur Shastri Institute | 1 Year Program |
+| [🌐 Basic Web Development](https://drive.google.com/file/d/1cbDvPOvOmw9xLs0jN7YUYzaTQw-VyrvM/view?usp=sharing) | Masai School | Fundamentals |
+| [🤖 Beginner in ChatGPT](https://drive.google.com/file/d/1qVaoZ-tm4tvZfrapp2iP5tJINZDWicUj/view?usp=sharing) | Great Learning | AI & Prompt Engineering |
+| [⌨️ Typing Speed – 47 WPM, 96.9% Accuracy](https://drive.google.com/file/d/194vHvB7WZf87kEgnY0Tn5u30Ajl0Rhew/view?usp=sharing) | RATATYPE | English Proficiency |
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IAmtarunKumar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" width="96%" alt="Activity Graph"/>
+</div>
+
+---
+
+## 💡 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600px" alt="Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+
+**✨ "Code is not just syntax — it's a craft. Build with purpose." ✨**
+
+<br/>
+
+*Open to collaborations, freelance work, and exciting opportunities!*  
+*Let's connect on [LinkedIn](https://www.linkedin.com/in/thetarunkumar) or check out my [Portfolio](https://tarun-kumar-141120.vercel.app/)*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
