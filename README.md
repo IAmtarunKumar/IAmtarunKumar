@@ -91,39 +91,24 @@ const tarunKumar = {
 
 ## 📊 GitHub Statistics
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!-- Streak ✅ confirmed working in screenshot              -->
-<!-- Stats & Langs → switched to anuraghazra's OWN deploy  -->
-<!-- which has higher rate limits than the shared instance  -->
-<!-- ══════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<a href="https://github.com/IAmtarunKumar">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IAmtarunKumar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&include_all_commits=true&count_private=true&hide=contribs&rank_icon=percentile&cache_seconds=21600" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/IAmtarunKumar">
-  <img height="180" src="https://streak-stats.demolab.com?user=IAmtarunKumar&hide_border=true&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-</a>
+<!-- ROW 1: Profile Summary + Streak (both different services = no conflict) -->
+<!-- github-profile-summary-cards ✅ completely separate API from readme-stats -->
+<img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IAmtarunKumar&theme=2077" alt="GitHub Stats" />
+<img height="180" src="https://streak-stats.demolab.com?user=IAmtarunKumar&hide_border=true&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 
-</div>
+<br/><br/>
 
-<div align="center">
+<!-- ROW 2: Repos per language + Most commit language -->
+<img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IAmtarunKumar&theme=2077" alt="Repos Per Language" />
+&nbsp;
+<img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IAmtarunKumar&theme=2077" alt="Most Commit Language" />
 
-<a href="https://github.com/IAmtarunKumar">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmtarunKumar&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8&cache_seconds=21600" alt="Top Languages" />
-</a>
+<br/><br/>
 
-</div>
-
-<!-- FALLBACK: If stats cards above don't load, the shields below always will -->
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-★★★★☆-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-★★★★☆-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<!-- ROW 3: Full profile details wide card -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmtarunKumar&theme=2077" width="97%" alt="Profile Details" />
 
 </div>
 
