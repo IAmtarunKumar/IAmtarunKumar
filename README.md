@@ -1,4 +1,4 @@
-<!-- HEADER -->
+<!-- HEADER WAVE -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:1a1a8c,100:020024&height=230&section=header&text=Hey%2C%20I'm%20Tarun%20Kumar%20👋&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20TypeScript%20%7C%20India%20🇮🇳&descSize=17&descAlignY=62&animation=fadeIn"/>
 </div>
@@ -10,18 +10,18 @@
 
 <br/>
 
-<!-- SOCIAL LINKS -->
+<!-- SOCIAL BADGES -->
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thetarunkumar)
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](https://tarun-kumar-141120.vercel.app/)
-  [![Resume](https://img.shields.io/badge/📄_Resume-00C853?style=for-the-badge)](https://drive.google.com/file/d/1cXp6xEX33dueazlqRRMV6jf-KOuwiuaM/view)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IAmtarunKumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thetarunkumar)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](https://tarun-kumar-141120.vercel.app/)
+[![Resume](https://img.shields.io/badge/📄_Resume-00C853?style=for-the-badge)](https://drive.google.com/file/d/1cXp6xEX33dueazlqRRMV6jf-KOuwiuaM/view)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IAmtarunKumar)
 
-  <br/>
+<br/>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=IAmtarunKumar&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-  ![Followers](https://img.shields.io/github/followers/IAmtarunKumar?style=for-the-badge&color=00D9FF&labelColor=0d1117&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=IAmtarunKumar&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/IAmtarunKumar?style=for-the-badge&color=00D9FF&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
@@ -29,9 +29,9 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="coding gif"/>
-
 ## 🧑‍💻 Who Am I?
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif"/>
 
 ```typescript
 const tarunKumar = {
@@ -56,17 +56,20 @@ const tarunKumar = {
 
 ---
 
-## 🛠️ My Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-#### 🎨 Frontend
+**🎨 Frontend**
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap&theme=dark" />
 
-#### ⚙️ Backend & Database
+**⚙️ Backend & Database**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" />
 
-#### 🧰 Tools & Platforms
+**🧰 Tools & Platforms**
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&theme=dark" />
 
 </div>
@@ -77,13 +80,16 @@ const tarunKumar = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=IAmtarunKumar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github" width="48%" />
-  &nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app?user=IAmtarunKumar&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="48%" />
+<!--  GitHub Stats — using anuraghazra with cache_seconds to reduce rate limit issues -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=IAmtarunKumar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&cache_seconds=86400" />
+&nbsp;
+<!--  Streak — using DenverCoder1's service which is most stable -->
+<img height="180" src="https://streak-stats.demolab.com?user=IAmtarunKumar&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
 
-  <br/><br/>
+<br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmtarunKumar&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&langs_count=8" width="48%" />
+<!-- Top Languages — compact layout -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmtarunKumar&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&langs_count=8&cache_seconds=86400" />
 
 </div>
 
@@ -92,15 +98,21 @@ const tarunKumar = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IAmtarunKumar&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%" />
+
+<!--  Trophies — ryo-ma's official stable repo -->
+<img src="https://github-profile-trophy.vercel.app/?username=IAmtarunKumar&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" />
+
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IAmtarunKumar&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true&area=true&area_color=00D9FF" width="98%" />
+
+<!-- Activity Graph — Ashutosh00710's service, most reliable -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IAmtarunKumar&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true&area=true" width="97%" />
+
 </div>
 
 ---
@@ -120,7 +132,7 @@ const tarunKumar = {
 
 ---
 
-## 💬 Dev Quote of the Day
+## 💬 Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="600" />
@@ -128,7 +140,7 @@ const tarunKumar = {
 
 ---
 
-<!-- FOOTER CTA -->
+<!-- FOOTER -->
 <div align="center">
 
 ### 🚀 Let's Build Something Awesome Together!
@@ -143,7 +155,7 @@ const tarunKumar = {
 
 <br/>
 
-⭐ *Star my repos if you find them helpful — it means a lot!* ⭐
+⭐ *If you find my repos useful, a star goes a long way!* ⭐
 
 <br/>
 
