@@ -1,3 +1,65 @@
+# <!-- ══════════════════════════════════════════════ -->
+<!--  HEADER — capsule-render ✅ (confirmed working) -->
+<!-- ══════════════════════════════════════════════ -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Tarun%20Kumar&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Backend%20Tech%20Lead%20%7C%20Node.js%20%7C%20AWS%20%7C%20Fintech%20%F0%9F%87%AE%F0%9F%87%B3&descSize=18&descAlignY=60&animation=fadeIn" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=50&text=🚀%20Backend%20Tech%20Lead%20%7C%20Node.js%20%26%20AWS%20%7C%203%2B%20Years%20%7C%2015%2B%20Enterprise%20Projects&fontSize=15&fontColor=ffffff&animation=fadeIn" width="85%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thetarunkumar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://tarun-kumar-141120.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-00C853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cXp6xEX33dueazlqRRMV6jf-KOuwiuaM/view)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IAmtarunKumar)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=IAmtarunKumar&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/IAmtarunKumar?style=for-the-badge&color=A78BFA&labelColor=0d1117&label=FOLLOWERS)
+
+</div>
+
+<br/>
+
+---
+
+## 🧑‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
+
+```typescript
+const tarunKumar = {
+  location    : "Delhi, India 🇮🇳",
+  role        : "Backend Tech Lead",
+  company     : "Quikkred (Fintech)",
+  experience  : "3+ Years | 15+ Enterprise Projects",
+
+  expertise   : [
+    "Node.js & Express.js",
+    "Microservices on AWS ECS",
+    "MongoDB & Redis (ElastiCache)",
+    "REST API Design & JWT Auth",
+    "System Design & Scalability",
+  ],
+
+  impact      : {
+    apiLatency   : "↓ 20% via MongoDB optimization",
+    efficiency   : "↑ 30% backend integration",
+    crmSales     : "↑ 35% CRM team efficiency",
+    uptime       : "99.9% on AWS ECS deployments",
+  },
+
+  openTo      : "Senior Backend / Tech Lead Roles 🤝",
+  funFact     : "I still debug with console.log — no shame! 😄",
+};
+```
+
 <br clear="right"/>
 
 ---
