@@ -1,89 +1,46 @@
-<!-- ══════════════════════════════════════════════ -->
-<!--  HEADER — capsule-render ✅ (confirmed working) -->
-<!-- ══════════════════════════════════════════════ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Tarun%20Kumar&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20TypeScript%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=18&descAlignY=60&animation=fadeIn" />
-</div>
-
-<!-- ══════════════════════════════════════════════ -->
-<!-- TYPING — capsule-render text pill ✅ confirmed  -->
-<!-- (demolab was broken, capsule-render works)     -->
-<!-- ══════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=50&text=🚀%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20TypeScript%20%7C%201500%2B%20Hours%20Coding&fontSize=15&fontColor=ffffff&animation=fadeIn" width="85%" />
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════ -->
-<!-- BADGES — img.shields.io ✅ (confirmed working) -->
-<!-- ══════════════════════════════════════════════ -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thetarunkumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://tarun-kumar-141120.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-00C853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cXp6xEX33dueazlqRRMV6jf-KOuwiuaM/view)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IAmtarunKumar)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=IAmtarunKumar&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/IAmtarunKumar?style=for-the-badge&color=A78BFA&labelColor=0d1117&label=FOLLOWERS)
-
-</div>
-
-<br/>
-
----
-
-## 🧑‍💻 About Me
-
-<!-- Giphy ✅ confirmed working -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif"/>
-
-```typescript
-const tarunKumar = {
-  location   : "India 🇮🇳",
-  role       : "Full Stack Web Developer",
-  experience : "1500+ Hours of Coding",
-  focus      : ["Frontend", "Backend", "REST APIs"],
-  learning   : "System Design + DSA",
-
-  strengths  : [
-    "Clean & Scalable Code",
-    "Problem Solving (DSA)",
-    "Open Source Collaboration",
-  ],
-
-  openTo  : "Collaborations & Opportunities 🤝",
-  funFact : "I debug with console.log — no shame! 😄",
-};
-```
-
 <br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<!-- skillicons.dev ✅ confirmed working -->
 <div align="center">
+
+**⚙️ Backend & Cloud**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,redis,aws,nginx,docker&theme=dark" />
+
+<br/>
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+
+<br/>
 
 **🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark" />
 
 <br/>
 
-**⚙️ Backend & Database**
+**🧰 Tools & Practices**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
 
-<br/>
+</div>
 
-**🧰 Tools & Platforms**
+---
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&theme=dark" />
+## 🚀 Key Achievements
+
+<div align="center">
+
+![API Latency](https://img.shields.io/badge/⚡_API_Latency-Reduced_20%25-A78BFA?style=for-the-badge&labelColor=0d1117)
+![Integration](https://img.shields.io/badge/🔗_Integration_Efficiency-+30%25-00C853?style=for-the-badge&labelColor=0d1117)
+![CRM](https://img.shields.io/badge/📈_CRM_Efficiency-+35%25-FF6B6B?style=for-the-badge&labelColor=0d1117)
+![Projects](https://img.shields.io/badge/📦_Enterprise_Projects-15%2B-FFD700?style=for-the-badge&labelColor=0d1117)
+![Uptime](https://img.shields.io/badge/☁️_AWS_Uptime-99.9%25-0A66C2?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -93,37 +50,18 @@ const tarunKumar = {
 
 <div align="center">
 
-<!-- ROW 1: Profile Summary + Streak (both different services = no conflict) -->
-<!-- github-profile-summary-cards ✅ completely separate API from readme-stats -->
 <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IAmtarunKumar&theme=2077" alt="GitHub Stats" />
 <img height="180" src="https://streak-stats.demolab.com?user=IAmtarunKumar&hide_border=true&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 
 <br/><br/>
 
-<!-- ROW 2: Repos per language + Most commit language -->
 <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IAmtarunKumar&theme=2077" alt="Repos Per Language" />
 &nbsp;
 <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IAmtarunKumar&theme=2077" alt="Most Commit Language" />
 
 <br/><br/>
 
-<!-- ROW 3: Full profile details wide card -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmtarunKumar&theme=2077" width="97%" alt="Profile Details" />
-
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<!-- Trophies was broken. Using shields.io milestone badges instead — ✅ always works -->
-<div align="center">
-
-![Stars](https://img.shields.io/badge/⭐_GitHub_Stars-Earned-FFD700?style=for-the-badge&labelColor=0d1117)
-![Commits](https://img.shields.io/badge/💻_Total_Commits-6932%2B-A78BFA?style=for-the-badge&labelColor=0d1117)
-![Repos](https://img.shields.io/badge/📁_Public_Repos-Active-00C853?style=for-the-badge&labelColor=0d1117)
-![Experience](https://img.shields.io/badge/⏱️_Coding_Hours-1500%2B-FF5722?style=for-the-badge&labelColor=0d1117)
-![WPM](https://img.shields.io/badge/⌨️_Typing_Speed-47_WPM_96.9%25-0A66C2?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -131,9 +69,27 @@ const tarunKumar = {
 
 ## 📈 Contribution Activity
 
-<!-- activity-graph ✅ confirmed working -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IAmtarunKumar&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true&area=true&area_color=A78BFA" width="97%" alt="Contribution Graph" />
+</div>
+
+---
+
+## 💼 Featured Project
+
+<div align="center">
+
+### Quikkred — Fintech Loan Management Platform
+*Node.js · Express.js · MongoDB · Redis · AWS ECS · ElastiCache · Nginx · JWT*
+
+| Feature | Details |
+|:---|:---|
+| 🏦 Loan Lifecycle | End-to-end origination, disbursement & tracking |
+| 👥 CRM Module | Lead management, follow-up reminders, activity reports |
+| 🔐 Multi-Role Auth | Borrowers, Field Agents & Admins with JWT RBAC |
+| ☁️ Cloud Infra | AWS ECS microservices with Nginx reverse proxy — 99.9% uptime |
+| 🔌 Integrations | KYC verification, credit bureau, SMS/email notifications |
+
 </div>
 
 ---
@@ -145,18 +101,16 @@ const tarunKumar = {
 | 🏅 Certificate | 🏢 Issuer | 📌 Details |
 |:---|:---|:---|
 | [🎓 Diploma in Information Technology](https://drive.google.com/file/d/1qVaoZ-tm4tvZfrapp2iP5tJINZDWicUj/view?usp=sharing) | Lal Bahadur Shastri Institute | 1 Year Program |
-| [🌐 Basic Web Development](https://drive.google.com/file/d/1cbDvPOvOmw9xLs0jN7YUYzaTQw-VyrvM/view?usp=sharing) | Masai School | Web Dev Foundations |
-| [🤖 Beginner in ChatGPT](https://drive.google.com/file/d/1qVaoZ-tm4tvZfrapp2iP5tJINZDWicUj/view?usp=sharing) | Great Learning | AI & Prompt Engineering |
-| [⌨️ Typing — 47 WPM · 96.9% Accuracy](https://drive.google.com/file/d/194vHvB7WZf87kEgnY0Tn5u30Ajl0Rhew/view?usp=sharing) | RATATYPE | English Proficiency |
+| [🌐 Full Stack Web Development](https://drive.google.com/file/d/1cbDvPOvOmw9xLs0jN7YUYzaTQw-VyrvM/view?usp=sharing) | Masai School | Node.js, React, MongoDB |
+| [🤖 Certified Prompt Engineer](https://drive.google.com/file/d/1qVaoZ-tm4tvZfrapp2iP5tJINZDWicUj/view?usp=sharing) | Masai School | AI & Prompt Engineering |
 
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
-### 🤝 Let's Connect & Build Something Great!
+### 🤝 Open to Senior Backend & Tech Lead Roles
 
 > *"Code is not just syntax — it's a craft. Build with purpose."*
 
@@ -172,7 +126,6 @@ const tarunKumar = {
 
 <br/>
 
-<!-- capsule-render footer ✅ confirmed working -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" />
 
 </div>
